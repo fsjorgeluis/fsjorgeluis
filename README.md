@@ -20,7 +20,7 @@ Want to push up my work?
 
 <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/20530235/128264939-e6d6dc95-17fa-4cf5-9559-f23b668945a6.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about personal stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, Nestjs, React, Graphql, Mongodb, Javascript, Typescript.
 - ⚡ &nbsp; I’m currently boosting my skills as Full Stack Development.
@@ -29,7 +29,7 @@ Want to push up my work?
 - 💼 &nbsp; Checkout my [portfolio](https://fsjorgeluis.github.io/portfolio).
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/fsjorgeluis/fsjorgeluis/resume.pdf). -->
 
-### My Favorites Activities:
+### My favorite activities:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
