@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=fsjorgeluis.fsjorgeluis&style=flat-square&color=0088cc)
 
-I'm this person who likes to work under develpment banch. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on a lot of personal projects 🤓.
+I'm this person who likes to work under development banch. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and working a lot on personal projects 🤓.
 
 Joined Github **5** years ago.
 
