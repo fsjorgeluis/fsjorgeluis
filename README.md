@@ -14,10 +14,6 @@ Joined Github **5** years ago.
 
 Since then I didn't really use my personal git so much, but right now its time to write some code, build new things and share.
 
-Want to push up my work?
-
-<a href="https://www.buymeacoffee.com/linktodev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
 <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/20530235/128264939-e6d6dc95-17fa-4cf5-9559-f23b668945a6.gif" />
 
 ### Talking about personal stuffs:
