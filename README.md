@@ -28,7 +28,7 @@ Since then I didn't really use my personal git so much, but right now its time t
 ### My favorite activities:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 📰 &nbsp; Reading tech blogs whenever possible.
 
 ### Technologies & Tools:
 
