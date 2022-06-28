@@ -1,4 +1,4 @@
-## Hey, I'm [Jorge Fernández!](https://github.com/fsjorgeluis/) <img src="https://user-images.githubusercontent.com/20530235/128265126-db57342b-1b84-4352-9a84-7b79912d82b5.gif" width="30px">
+## Hey, I'm [Jorge Fernández!](https://github.com/fsjorgeluis/) <img src="https://user-images.githubusercontent.com/20530235/128265126-db57342b-1b84-4352-9a84-7b79912d82b5.gif" height="30" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fsjorgeluis)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fsjorgeluis.github.io/portfolio)
