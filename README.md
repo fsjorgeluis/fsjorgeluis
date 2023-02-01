@@ -45,6 +45,8 @@ Since then I didn't really use my personal git so much, but right now its time t
 
 #
 
+![Jorge’s Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsjorgeluis&theme=nord&layout=compact&hide=HTML)
+
 <div align="center">
 
 ### You can show some ❤️ by starring any of the repositories!
@@ -67,5 +69,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Jorge’s Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsjorgeluis&theme=nord&layout=compact&hide=HTML)
