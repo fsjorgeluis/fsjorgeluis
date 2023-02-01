@@ -68,4 +68,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jorge’s Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsjorgeluis&theme=nord&layout=compact&hide=HTML)
+<div align="center">
+  ![Jorge’s Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsjorgeluis&theme=nord&layout=compact&hide=HTML)
+</div>
