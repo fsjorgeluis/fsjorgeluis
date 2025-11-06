@@ -11,7 +11,7 @@
 
 I'm this person who likes to work under development banch. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and working a lot on personal projects 🤓.
 
-Joined Github **5** years ago.
+Joined Github **10** years ago.
 
 Since then I didn't really use my personal git so much, but right now its time to write some code, build new things and share.
 
