@@ -18,9 +18,9 @@ Since then I didn't really use my personal git so much, but right now its time t
 
 ### Talking about personal stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, Nestjs, React, Graphql, Mongodb, Javascript, Typescript.
-- ⚡ &nbsp; I’m currently boosting my skills as Full Stack Development.
-- 😄 &nbsp; Fun fact: Parentheses Position Matters and Equal is Not Always Equal in Javascript.
+- 🛠 &nbsp; I’m currently working with TypeScript, Go, Clickhouse, AWS, PHP.
+- ⚡ &nbsp; I’m currently boosting my skills as AWS Solutions Architect.
+- 😄 &nbsp; Fun fact: The cute gopher character was not originally created for the language. Its designer, Renée French, first created a similar gopher image for a WFMU radio station T-shirt design years before Go existed.
 - 📫 &nbsp; How to reach me: fsjorgeluis@gmail.com.
 - 💼 &nbsp; Checkout my [portfolio](https://fsjorgeluis.github.io/portfolio).
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/fsjorgeluis/fsjorgeluis/resume.pdf). -->
@@ -32,6 +32,7 @@ Since then I didn't really use my personal git so much, but right now its time t
 
 ### Technologies & Tools:
 
+<!--
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
@@ -42,6 +43,7 @@ Since then I didn't really use my personal git so much, but right now its time t
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+-->
 
 ![Jorge’s Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsjorgeluis&theme=nord&layout=compact&hide=HTML)
 
