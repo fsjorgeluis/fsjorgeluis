@@ -5,8 +5,9 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fsjorgeluis)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/linktodev/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fsjorgeluis)
+![visitors](https://api.visitorbadge.io/api/visitors?path=fsjorgeluis%2Ffsjorgeluis&label=Views&labelColor=%2386aaec&countColor=%2386aaec)
 
-### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=fsjorgeluis.fsjorgeluis&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; 
 
 I'm this person who likes to work under development banch. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and working a lot on personal projects 🤓.
 
